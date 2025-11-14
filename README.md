@@ -1,0 +1,1 @@
+# centrovitali-assests
