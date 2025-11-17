@@ -1,3 +1,5 @@
+# CentroVitali – Assets
+
 This repository stores public visual assets for **CentroVitali**, such as logos and basic graphics used on websites, social media, and print.
 
 > ⚠️ **Important:**  
